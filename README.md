@@ -22,6 +22,7 @@
 3. [Numberphile](https://www.youtube.com/channel/UCoxcjq-8xIDTYp3uz647V5A)
 4. [ASCII-Table](http://www.asciitable.com/)
 5. [CPP Reference](https://en.cppreference.com/w/)
+6. Hackerearth [CodeMonk](https://www.hackerearth.com/practice/codemonk/)
 
 
 ## Get in touch with us
