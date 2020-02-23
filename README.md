@@ -38,7 +38,7 @@
 [LinkedIn](https://www.linkedin.com/in/rishabh-gupta-6a5715173/)
 
 [CodeChef](https://www.codechef.com/users/rishabh104)
-[HackerEarth](https://www.hackerearth.com/@braindead01)
+[HackerEarth](https://www.hackerearth.com/@Rishabh_Gupta104)
 ### Sahil Kumar
 
 [Instagram](https://instagram.com/miniking098)
