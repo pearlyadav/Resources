@@ -1,4 +1,4 @@
-# Resources for Competitive Coding
+# Resources
 
 1. PPT on Combinatorics. [Click Here!](https://docs.google.com/presentation/d/1Z2s07j1OX95cKklTeV3DGTYxw0-vxb0TcjrThyqeiIs/edit?usp=sharing)
 2. PPT on STL. [Click Here!](https://docs.google.com/presentation/d/1rKlVEkA_DciafHL4x_Ev5gaU-dwHQlibhBdAjJgJAeg/edit?usp=sharing)
